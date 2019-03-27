@@ -10,11 +10,15 @@ Setup
 This project requires Python 3.
 
 Setup virtual env:
-`$ virtualenv venv`
-`$ source venv/bin/activate`
+```
+$ virtualenv venv
+$ source venv/bin/activate
+```
 
 Install required packages:
-`make init`
+```
+make init
+```
 
 Running
 ---------------
