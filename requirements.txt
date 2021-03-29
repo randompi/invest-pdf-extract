@@ -21,7 +21,7 @@ pdfminer.six==20181108
 plac==0.9.6
 preshed==2.0.1
 pycryptodome==3.7.3
-Pygments==2.3.1
+Pygments==2.7.4
 pyparsing==2.3.1
 pytz==2018.9
 regex==2018.1.10
